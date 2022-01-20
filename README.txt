@@ -10,7 +10,7 @@ dry-wit yourself.
 Basically, in order to write dry-wit scripts you'll do the following:
 
 - Clone this repository under ~/.dry-wit:
-  git clone https://github.com/rydnr/dry-wit $HOME/.dry-wit
+  git clone https://github.com/osoco/dry-wit.git $HOME/.dry-wit
 
 - Add ~/.dry-wit/src to your PATH:
 echo 'export PATH=$PATH:$HOME/.dry-wit/src' >> $HOME/.bashrc
